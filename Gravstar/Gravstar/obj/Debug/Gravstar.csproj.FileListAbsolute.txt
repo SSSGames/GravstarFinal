@@ -1,0 +1,658 @@
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\app.info
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\shaders\Texture.cgx
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\app.exe
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\Sce.PlayStation.HighLevel.GameEngine2D.dll
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\System.Json.dll
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\System.Xml.dll
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\System.Runtime.Serialization.dll
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\System.Core.dll
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\System.ServiceModel.Web.dll
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\System.ServiceModel.dll
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\Sce.PlayStation.HighLevel.UI.dll
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\app.exe.mdb
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\background\pauseBackground.png
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\collectibles\ammo.png
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\collectibles\health.png
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\collectibles\multiplier.png
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\sfx\grunt.wav
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\sfx\impact.wav
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\sfx\shoot.wav
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\sfx\damn.wav
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\sfx\fail.wav
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\background\Background.jpg
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Space Fighter Loop.mp3
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\The Complex.mp3
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\player\sprites\playerSheet.jpg
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\player\playerSheet.jpg
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Cephalopod.mp3
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\In a Heartbeat.mp3
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Ouroboros.mp3
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Rocket.mp3
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Volatile Reaction.mp3
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Controlled Chaos.mp3
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Controlled Chaos NP.mp3
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Dark Fog.mp3
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Airport Lounge.mp3
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\background\menubackground.jpg
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\other\Ring_silver%28resize%29.png
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\app.info
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\shaders\Texture.cgx
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\app.exe
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\Sce.PlayStation.HighLevel.GameEngine2D.dll
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\System.Json.dll
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\System.Xml.dll
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\System.Runtime.Serialization.dll
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\System.Core.dll
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\System.ServiceModel.Web.dll
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\System.ServiceModel.dll
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\Sce.PlayStation.HighLevel.UI.dll
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\app.exe.mdb
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\background\pauseBackground.png
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\collectibles\ammo.png
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\collectibles\health.png
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\collectibles\multiplier.png
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\sfx\grunt.wav
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\sfx\impact.wav
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\sfx\shoot.wav
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\sfx\damn.wav
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\sfx\fail.wav
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\background\Background.jpg
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Space Fighter Loop.mp3
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\The Complex.mp3
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\player\sprites\playerSheet.jpg
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\player\playerSheet.jpg
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Cephalopod.mp3
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\In a Heartbeat.mp3
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Ouroboros.mp3
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Rocket.mp3
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Volatile Reaction.mp3
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Controlled Chaos.mp3
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Controlled Chaos NP.mp3
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Dark Fog.mp3
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Airport Lounge.mp3
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\background\menubackground.jpg
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\other\Ring_silver%28resize%29.png
+L:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar.psdp
+L:\TGPNew\Gravstar\Gravstar\obj\Debug\shaders\shaders\Texture.cgx
+L:\TGPNew\Gravstar\Gravstar\obj\Debug\convertedpdb\app.exe.mdb
+L:\TGPNew\Gravstar\Gravstar\obj\Debug\app.exe
+L:\TGPNew\Gravstar\Gravstar\obj\Debug\app.pdb
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\app.info
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\shaders\Texture.cgx
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\app.exe
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\Sce.PlayStation.HighLevel.GameEngine2D.dll
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\System.Json.dll
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\System.Xml.dll
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\System.Runtime.Serialization.dll
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\System.Core.dll
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\System.ServiceModel.Web.dll
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\System.ServiceModel.dll
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\Sce.PlayStation.HighLevel.UI.dll
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\app.exe.mdb
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\background\pauseBackground.png
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\collectibles\ammo.png
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\collectibles\health.png
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\collectibles\multiplier.png
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\sfx\grunt.wav
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\sfx\impact.wav
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\sfx\shoot.wav
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\sfx\damn.wav
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\sfx\fail.wav
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\background\Background.jpg
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Space Fighter Loop.mp3
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\The Complex.mp3
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\player\sprites\playerSheet.jpg
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\player\playerSheet.jpg
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Cephalopod.mp3
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\In a Heartbeat.mp3
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Ouroboros.mp3
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Rocket.mp3
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Volatile Reaction.mp3
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Controlled Chaos.mp3
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Controlled Chaos NP.mp3
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Dark Fog.mp3
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Airport Lounge.mp3
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\background\menubackground.jpg
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\other\Ring_silver%28resize%29.png
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\other\bullet.png
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\app.info
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\shaders\Texture.cgx
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\app.exe
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\Sce.PlayStation.HighLevel.GameEngine2D.dll
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\System.Json.dll
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\System.Xml.dll
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\System.Runtime.Serialization.dll
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\System.Core.dll
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\System.ServiceModel.Web.dll
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\System.ServiceModel.dll
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\Sce.PlayStation.HighLevel.UI.dll
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\app.exe.mdb
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\background\pauseBackground.png
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\collectibles\ammo.png
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\collectibles\health.png
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\collectibles\multiplier.png
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\sfx\grunt.wav
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\sfx\impact.wav
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\sfx\shoot.wav
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\sfx\damn.wav
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\sfx\fail.wav
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\background\Background.jpg
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Space Fighter Loop.mp3
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\The Complex.mp3
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\player\sprites\playerSheet.jpg
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\player\playerSheet.jpg
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Cephalopod.mp3
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\In a Heartbeat.mp3
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Ouroboros.mp3
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Rocket.mp3
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Volatile Reaction.mp3
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Controlled Chaos.mp3
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Controlled Chaos NP.mp3
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Dark Fog.mp3
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Airport Lounge.mp3
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\background\menubackground.jpg
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\other\Ring_silver%28resize%29.png
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\other\bullet.png
+F:\TGPNew\Gravstar\Gravstar\bin\Debug\Gravstar.psdp
+F:\TGPNew\Gravstar\Gravstar\obj\Debug\shaders\shaders\Texture.cgx
+F:\TGPNew\Gravstar\Gravstar\obj\Debug\convertedpdb\app.exe.mdb
+F:\TGPNew\Gravstar\Gravstar\obj\Debug\app.exe
+F:\TGPNew\Gravstar\Gravstar\obj\Debug\app.pdb
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\obj\Debug\shaders\shaders\Texture.cgx
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\app.info
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\shaders\Texture.cgx
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\app.exe
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\Sce.PlayStation.HighLevel.GameEngine2D.dll
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\System.Json.dll
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\System.Xml.dll
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\System.Runtime.Serialization.dll
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\System.Core.dll
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\System.ServiceModel.Web.dll
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\System.ServiceModel.dll
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\Sce.PlayStation.HighLevel.UI.dll
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\app.exe.mdb
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\background\pauseBackground.png
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\collectibles\ammo.png
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\collectibles\health.png
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\collectibles\multiplier.png
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\sfx\grunt.wav
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\sfx\impact.wav
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\sfx\shoot.wav
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\sfx\damn.wav
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\sfx\fail.wav
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\background\Background.jpg
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Space Fighter Loop.mp3
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\The Complex.mp3
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\player\sprites\playerSheet.jpg
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\player\playerSheet.jpg
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Cephalopod.mp3
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\In a Heartbeat.mp3
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Ouroboros.mp3
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Rocket.mp3
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Volatile Reaction.mp3
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Controlled Chaos.mp3
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Controlled Chaos NP.mp3
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Dark Fog.mp3
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Airport Lounge.mp3
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\background\menubackground.jpg
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\other\bullet.png
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\UI\healthAndArmour.png
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\app.info
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\shaders\Texture.cgx
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\app.exe
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\Sce.PlayStation.HighLevel.GameEngine2D.dll
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\System.Json.dll
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\System.Xml.dll
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\System.Runtime.Serialization.dll
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\System.Core.dll
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\System.ServiceModel.Web.dll
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\System.ServiceModel.dll
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\Sce.PlayStation.HighLevel.UI.dll
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\app.exe.mdb
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\background\pauseBackground.png
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\collectibles\ammo.png
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\collectibles\health.png
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\collectibles\multiplier.png
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\sfx\grunt.wav
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\sfx\impact.wav
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\sfx\shoot.wav
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\sfx\damn.wav
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\sfx\fail.wav
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\background\Background.jpg
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Space Fighter Loop.mp3
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\The Complex.mp3
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\player\sprites\playerSheet.jpg
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\player\playerSheet.jpg
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Cephalopod.mp3
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\In a Heartbeat.mp3
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Ouroboros.mp3
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Rocket.mp3
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Volatile Reaction.mp3
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Controlled Chaos.mp3
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Controlled Chaos NP.mp3
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Dark Fog.mp3
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Airport Lounge.mp3
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\background\menubackground.jpg
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\other\bullet.png
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\UI\healthAndArmour.png
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar.psdp
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\obj\Debug\convertedpdb\app.exe.mdb
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\obj\Debug\app.exe
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\obj\Debug\app.pdb
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\other\ring.png
+C:\Users\m010917c\Downloads\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\other\ring.png
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\app.info
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\shaders\Texture.cgx
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\app.exe
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\Sce.PlayStation.HighLevel.GameEngine2D.dll
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\System.Json.dll
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\System.Xml.dll
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\System.Runtime.Serialization.dll
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\System.Core.dll
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\System.ServiceModel.Web.dll
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\System.ServiceModel.dll
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\Sce.PlayStation.HighLevel.UI.dll
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\app.exe.mdb
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\background\pauseBackground.png
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\collectibles\ammo.png
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\collectibles\health.png
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\collectibles\multiplier.png
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\sfx\grunt.wav
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\sfx\impact.wav
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\sfx\shoot.wav
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\sfx\damn.wav
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\sfx\fail.wav
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\background\Background.jpg
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Space Fighter Loop.mp3
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\The Complex.mp3
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\player\sprites\playerSheet.jpg
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\player\playerSheet.jpg
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Cephalopod.mp3
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\In a Heartbeat.mp3
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Ouroboros.mp3
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Rocket.mp3
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Volatile Reaction.mp3
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Controlled Chaos.mp3
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Controlled Chaos NP.mp3
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Dark Fog.mp3
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Airport Lounge.mp3
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\background\menubackground.jpg
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\other\bullet.png
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\UI\healthAndArmour.png
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\other\ring.png
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\player\sprites\SpriteStandingGun.png
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\player\sprites\RunRightGun.png
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\player\sprites\RunLeftGun.png
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\player\sprites\SpriteStandingLeft.png
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\app.info
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\shaders\Texture.cgx
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\app.exe
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\Sce.PlayStation.HighLevel.GameEngine2D.dll
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\System.Json.dll
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\System.Xml.dll
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\System.Runtime.Serialization.dll
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\System.Core.dll
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\System.ServiceModel.Web.dll
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\System.ServiceModel.dll
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\Sce.PlayStation.HighLevel.UI.dll
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\app.exe.mdb
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\background\pauseBackground.png
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\collectibles\ammo.png
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\collectibles\health.png
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\collectibles\multiplier.png
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\sfx\grunt.wav
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\sfx\impact.wav
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\sfx\shoot.wav
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\sfx\damn.wav
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\sfx\fail.wav
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\background\Background.jpg
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Space Fighter Loop.mp3
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\The Complex.mp3
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\player\sprites\playerSheet.jpg
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\player\playerSheet.jpg
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Cephalopod.mp3
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\In a Heartbeat.mp3
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Ouroboros.mp3
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Rocket.mp3
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Volatile Reaction.mp3
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Controlled Chaos.mp3
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Controlled Chaos NP.mp3
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Dark Fog.mp3
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Airport Lounge.mp3
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\background\menubackground.jpg
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\other\bullet.png
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\UI\healthAndArmour.png
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\other\ring.png
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\player\sprites\SpriteStandingGun.png
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\player\sprites\RunRightGun.png
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\player\sprites\RunLeftGun.png
+F:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\player\sprites\SpriteStandingLeft.png
+F:\Gravstar\Gravstar\bin\Debug\Gravstar.psdp
+F:\Gravstar\Gravstar\obj\Debug\shaders\shaders\Texture.cgx
+F:\Gravstar\Gravstar\obj\Debug\convertedpdb\app.exe.mdb
+F:\Gravstar\Gravstar\obj\Debug\app.exe
+F:\Gravstar\Gravstar\obj\Debug\app.pdb
+F:\Technical Games Production\Gravstar\Gravstar\obj\Debug\shaders\shaders\Texture.cgx
+G:\Technical Games Production\Gravstar\Gravstar\obj\Debug\shaders\shaders\Texture.cgx
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\app.info
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\shaders\Texture.cgx
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\app.exe
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\Sce.PlayStation.HighLevel.GameEngine2D.dll
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\System.Json.dll
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\System.Xml.dll
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\System.Runtime.Serialization.dll
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\System.Core.dll
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\System.ServiceModel.Web.dll
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\System.ServiceModel.dll
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\Sce.PlayStation.HighLevel.UI.dll
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\app.exe.mdb
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\background\pauseBackground.png
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\collectibles\ammo.png
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\collectibles\health.png
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\collectibles\multiplier.png
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\sfx\grunt.wav
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\sfx\impact.wav
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\sfx\shoot.wav
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\sfx\damn.wav
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\sfx\fail.wav
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\background\Background.jpg
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Space Fighter Loop.mp3
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\The Complex.mp3
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\player\sprites\playerSheet.jpg
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\player\playerSheet.jpg
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Cephalopod.mp3
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\In a Heartbeat.mp3
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Ouroboros.mp3
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Rocket.mp3
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Volatile Reaction.mp3
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Controlled Chaos.mp3
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Controlled Chaos NP.mp3
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Dark Fog.mp3
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Airport Lounge.mp3
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\background\menubackground.jpg
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\other\bullet.png
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\UI\healthAndArmour.png
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\other\ring.png
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\player\sprites\SpriteStandingGun.png
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\player\sprites\RunRightGun.png
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\player\sprites\RunLeftGun.png
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\player\sprites\SpriteStandingLeft.png
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\app.info
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\shaders\Texture.cgx
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\app.exe
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\Sce.PlayStation.HighLevel.GameEngine2D.dll
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\System.Json.dll
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\System.Xml.dll
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\System.Runtime.Serialization.dll
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\System.Core.dll
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\System.ServiceModel.Web.dll
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\System.ServiceModel.dll
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\Sce.PlayStation.HighLevel.UI.dll
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\app.exe.mdb
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\background\pauseBackground.png
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\collectibles\ammo.png
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\collectibles\health.png
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\collectibles\multiplier.png
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\sfx\grunt.wav
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\sfx\impact.wav
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\sfx\shoot.wav
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\sfx\damn.wav
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\sfx\fail.wav
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\background\Background.jpg
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Space Fighter Loop.mp3
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\The Complex.mp3
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\player\sprites\playerSheet.jpg
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\player\playerSheet.jpg
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Cephalopod.mp3
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\In a Heartbeat.mp3
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Ouroboros.mp3
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Rocket.mp3
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Volatile Reaction.mp3
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Controlled Chaos.mp3
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Controlled Chaos NP.mp3
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Dark Fog.mp3
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Airport Lounge.mp3
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\background\menubackground.jpg
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\other\bullet.png
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\UI\healthAndArmour.png
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\other\ring.png
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\player\sprites\SpriteStandingGun.png
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\player\sprites\RunRightGun.png
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\player\sprites\RunLeftGun.png
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\player\sprites\SpriteStandingLeft.png
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar.psdp
+G:\Technical Games Production\Gravstar\Gravstar\obj\Debug\convertedpdb\app.exe.mdb
+G:\Technical Games Production\Gravstar\Gravstar\obj\Debug\app.exe
+G:\Technical Games Production\Gravstar\Gravstar\obj\Debug\app.pdb
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\app.info
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\shaders\Texture.cgx
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\app.exe
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\Sce.PlayStation.HighLevel.GameEngine2D.dll
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\System.Json.dll
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\System.Xml.dll
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\System.Runtime.Serialization.dll
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\System.Core.dll
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\System.ServiceModel.Web.dll
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\System.ServiceModel.dll
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\Sce.PlayStation.HighLevel.UI.dll
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\app.exe.mdb
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\background\pauseBackground.png
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\collectibles\ammo.png
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\collectibles\health.png
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\collectibles\multiplier.png
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\sfx\grunt.wav
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\sfx\impact.wav
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\sfx\shoot.wav
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\sfx\damn.wav
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\sfx\fail.wav
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\background\Background.jpg
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Space Fighter Loop.mp3
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\The Complex.mp3
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\player\sprites\playerSheet.jpg
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\player\playerSheet.jpg
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Cephalopod.mp3
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\In a Heartbeat.mp3
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Ouroboros.mp3
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Rocket.mp3
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Volatile Reaction.mp3
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Controlled Chaos.mp3
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Controlled Chaos NP.mp3
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Dark Fog.mp3
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Airport Lounge.mp3
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\background\menubackground.jpg
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\other\bullet.png
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\UI\healthAndArmour.png
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\other\ring.png
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\player\sprites\SpriteStandingGun.png
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\player\sprites\RunRightGun.png
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\player\sprites\RunLeftGun.png
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\player\sprites\SpriteStandingLeft.png
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\player\Test.png
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\background\New Background.jpg
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\app.info
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\shaders\Texture.cgx
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\app.exe
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\Sce.PlayStation.HighLevel.GameEngine2D.dll
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\System.Json.dll
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\System.Xml.dll
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\System.Runtime.Serialization.dll
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\System.Core.dll
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\System.ServiceModel.Web.dll
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\System.ServiceModel.dll
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\Sce.PlayStation.HighLevel.UI.dll
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\app.exe.mdb
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\background\pauseBackground.png
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\collectibles\ammo.png
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\collectibles\health.png
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\collectibles\multiplier.png
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\sfx\grunt.wav
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\sfx\impact.wav
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\sfx\shoot.wav
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\sfx\damn.wav
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\sfx\fail.wav
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\background\Background.jpg
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Space Fighter Loop.mp3
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\The Complex.mp3
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\player\sprites\playerSheet.jpg
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\player\playerSheet.jpg
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Cephalopod.mp3
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\In a Heartbeat.mp3
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Ouroboros.mp3
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Rocket.mp3
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Volatile Reaction.mp3
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Controlled Chaos.mp3
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Controlled Chaos NP.mp3
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Dark Fog.mp3
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Airport Lounge.mp3
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\background\menubackground.jpg
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\other\bullet.png
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\UI\healthAndArmour.png
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\other\ring.png
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\player\sprites\SpriteStandingGun.png
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\player\sprites\RunRightGun.png
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\player\sprites\RunLeftGun.png
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\player\sprites\SpriteStandingLeft.png
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\player\Test.png
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\background\New Background.jpg
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar.psdp
+E:\Technical Games Production\Gravstar\Gravstar\obj\Debug\shaders\shaders\Texture.cgx
+E:\Technical Games Production\Gravstar\Gravstar\obj\Debug\convertedpdb\app.exe.mdb
+E:\Technical Games Production\Gravstar\Gravstar\obj\Debug\app.exe
+E:\Technical Games Production\Gravstar\Gravstar\obj\Debug\app.pdb
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\player\Test.png
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\background\New Background.jpg
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\background\Paralax Background.png
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\player\Test.png
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\background\New Background.jpg
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\background\Paralax Background.png
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\background\Paralax Background.jpg
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\background\Paralax Background.jpg
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\background\Clear Parallax.png
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\background\Clear Parallax.png
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\other\newRing.png
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\other\newRing.png
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\other\box.png
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\other\exit.png
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\other\box.png
+G:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\other\exit.png
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\background\Paralax Background.png
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\background\Paralax Background.jpg
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\background\Clear Parallax.png
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\other\newRing.png
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\other\box.png
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\other\exit.png
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\background\Paralax Background.png
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\background\Paralax Background.jpg
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\background\Clear Parallax.png
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\other\newRing.png
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\other\box.png
+E:\Technical Games Production\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\other\exit.png
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\app.info
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\shaders\Texture.cgx
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\app.exe
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\Sce.PlayStation.HighLevel.GameEngine2D.dll
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\System.Json.dll
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\System.Xml.dll
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\System.Runtime.Serialization.dll
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\System.Core.dll
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\System.ServiceModel.Web.dll
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\System.ServiceModel.dll
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\Sce.PlayStation.HighLevel.UI.dll
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\app.exe.mdb
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\background\pauseBackground.png
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\collectibles\ammo.png
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\collectibles\health.png
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\collectibles\multiplier.png
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\sfx\grunt.wav
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\sfx\impact.wav
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\sfx\shoot.wav
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\sfx\damn.wav
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\sfx\fail.wav
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\background\Background.jpg
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Space Fighter Loop.mp3
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\The Complex.mp3
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\player\sprites\playerSheet.jpg
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\player\playerSheet.jpg
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Cephalopod.mp3
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\In a Heartbeat.mp3
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Ouroboros.mp3
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Rocket.mp3
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Volatile Reaction.mp3
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Controlled Chaos.mp3
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Controlled Chaos NP.mp3
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Dark Fog.mp3
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\sounds\bgm\Airport Lounge.mp3
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\background\menubackground.jpg
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\other\bullet.png
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\UI\healthAndArmour.png
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\other\ring.png
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\player\sprites\SpriteStandingGun.png
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\player\sprites\RunRightGun.png
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\player\sprites\RunLeftGun.png
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\player\sprites\SpriteStandingLeft.png
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\player\Test.png
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\background\New Background.jpg
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\background\Paralax Background.png
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\background\Paralax Background.jpg
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\background\Clear Parallax.png
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\other\newRing.png
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\other\box.png
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\textures\other\exit.png
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-unsigned\Application\PlayerSprite.png
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\app.info
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\shaders\Texture.cgx
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\app.exe
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\Sce.PlayStation.HighLevel.GameEngine2D.dll
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\System.Json.dll
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\System.Xml.dll
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\System.Runtime.Serialization.dll
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\System.Core.dll
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\System.ServiceModel.Web.dll
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\System.ServiceModel.dll
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\Sce.PlayStation.HighLevel.UI.dll
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\app.exe.mdb
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\background\pauseBackground.png
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\collectibles\ammo.png
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\collectibles\health.png
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\collectibles\multiplier.png
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\sfx\grunt.wav
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\sfx\impact.wav
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\sfx\shoot.wav
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\sfx\damn.wav
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\sfx\fail.wav
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\background\Background.jpg
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Space Fighter Loop.mp3
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\The Complex.mp3
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\player\sprites\playerSheet.jpg
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\player\playerSheet.jpg
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Cephalopod.mp3
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\In a Heartbeat.mp3
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Ouroboros.mp3
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Rocket.mp3
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Volatile Reaction.mp3
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Controlled Chaos.mp3
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Controlled Chaos NP.mp3
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Dark Fog.mp3
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\sounds\bgm\Airport Lounge.mp3
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\background\menubackground.jpg
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\other\bullet.png
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\UI\healthAndArmour.png
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\other\ring.png
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\player\sprites\SpriteStandingGun.png
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\player\sprites\RunRightGun.png
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\player\sprites\RunLeftGun.png
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\player\sprites\SpriteStandingLeft.png
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\player\Test.png
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\background\New Background.jpg
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\background\Paralax Background.png
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\background\Paralax Background.jpg
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\background\Clear Parallax.png
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\other\newRing.png
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\other\box.png
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\textures\other\exit.png
+E:\Gravstar\Gravstar\bin\Debug\Gravstar-signed\Application\PlayerSprite.png
+E:\Gravstar\Gravstar\bin\Debug\Gravstar.psdp
+E:\Gravstar\Gravstar\obj\Debug\shaders\shaders\Texture.cgx
+E:\Gravstar\Gravstar\obj\Debug\convertedpdb\app.exe.mdb
+E:\Gravstar\Gravstar\obj\Debug\app.exe
+E:\Gravstar\Gravstar\obj\Debug\app.pdb

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.0</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{900BF26C-CEFD-43F0-AB56-9B428F5CDC1C}</ProjectGuid>
+    <ProjectTypeGuids>{69878862-DA7D-4DC6-B0A1-50D8FAB4242F};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Gravstar</RootNamespace>
+    <AssemblyName>Gravstar</AssemblyName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>none</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="Sce.PlayStation.Core" />
+    <Reference Include="Sce.PlayStation.HighLevel.GameEngine2D" />
+    <Reference Include="Sce.PlayStation.HighLevel.UI" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\AppMain.cs" />
+    <Compile Include="Classes\Player.cs" />
+    <Compile Include="Classes\Managers\LevelManager.cs" />
+    <Compile Include="Classes\Managers\AudioManager.cs" />
+    <Compile Include="Classes\Managers\BackgroundManager.cs" />
+    <Compile Include="Classes\Managers\GameObjectManager.cs" />
+    <Compile Include="Classes\Platform.cs" />
+    <Compile Include="Classes\Managers\BulletManager.cs" />
+    <Compile Include="Classes\Managers\UIManager.cs" />
+    <Compile Include="Exit.cs" />
+    <Compile Include="Plat.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <PsmMetadata Include="app.xml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Sce\Sce.Psm.CSharp.targets" />
+  <ItemGroup>
+    <Folder Include="shaders\" />
+    <Folder Include="fonts\" />
+    <Folder Include="sounds\" />
+    <Folder Include="Classes\" />
+    <Folder Include="textures\" />
+    <Folder Include="textures\player\sprites\" />
+    <Folder Include="sounds\sfx\" />
+    <Folder Include="textures\enemy\" />
+    <Folder Include="sounds\bgm\" />
+    <Folder Include="textures\other\" />
+    <Folder Include="textures\UI\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ShaderProgram Include="shaders\Texture.fcg" />
+    <ShaderProgram Include="shaders\Texture.vcg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="textures\background\pauseBackground.png" />
+    <Content Include="textures\collectibles\ammo.png" />
+    <Content Include="textures\collectibles\health.png" />
+    <Content Include="textures\collectibles\multiplier.png" />
+    <Content Include="sounds\sfx\grunt.wav" />
+    <Content Include="sounds\sfx\impact.wav" />
+    <Content Include="sounds\sfx\shoot.wav" />
+    <Content Include="sounds\sfx\damn.wav" />
+    <Content Include="sounds\sfx\fail.wav" />
+    <Content Include="textures\background\Background.jpg" />
+    <Content Include="sounds\bgm\Space Fighter Loop.mp3" />
+    <Content Include="sounds\bgm\The Complex.mp3" />
+    <Content Include="textures\player\sprites\playerSheet.jpg" />
+    <Content Include="textures\player\playerSheet.jpg" />
+    <Content Include="sounds\bgm\Cephalopod.mp3" />
+    <Content Include="sounds\bgm\In a Heartbeat.mp3" />
+    <Content Include="sounds\bgm\Ouroboros.mp3" />
+    <Content Include="sounds\bgm\Rocket.mp3" />
+    <Content Include="sounds\bgm\Volatile Reaction.mp3" />
+    <Content Include="sounds\bgm\Controlled Chaos.mp3" />
+    <Content Include="sounds\bgm\Controlled Chaos NP.mp3" />
+    <Content Include="sounds\bgm\Dark Fog.mp3" />
+    <Content Include="sounds\bgm\Airport Lounge.mp3" />
+    <Content Include="textures\background\menubackground.jpg" />
+    <Content Include="textures\other\bullet.png" />
+    <Content Include="textures\UI\healthAndArmour.png" />
+    <Content Include="textures\other\ring.png" />
+    <Content Include="textures\player\sprites\SpriteStandingGun.png" />
+    <Content Include="textures\player\sprites\RunRightGun.png" />
+    <Content Include="textures\player\sprites\RunLeftGun.png" />
+    <Content Include="textures\player\sprites\SpriteStandingLeft.png" />
+    <Content Include="textures\player\Test.png" />
+    <Content Include="textures\background\New Background.jpg" />
+    <Content Include="textures\background\Paralax Background.png" />
+    <Content Include="textures\background\Paralax Background.jpg" />
+    <Content Include="textures\background\Clear Parallax.png" />
+    <Content Include="textures\other\newRing.png" />
+    <Content Include="textures\other\box.png" />
+    <Content Include="textures\other\exit.png" />
+    <Content Include="PlayerSprite.png" />
+  </ItemGroup>
+</Project>

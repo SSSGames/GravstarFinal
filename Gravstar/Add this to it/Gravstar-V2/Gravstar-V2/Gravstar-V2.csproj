@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.0</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{73454CD7-4771-4FBB-8D95-09EEADB9B64F}</ProjectGuid>
+    <ProjectTypeGuids>{69878862-DA7D-4DC6-B0A1-50D8FAB4242F};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>GravstarV2</RootNamespace>
+    <AssemblyName>Gravstar-V2</AssemblyName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>none</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="Sce.PlayStation.Core" />
+    <Reference Include="Sce.PlayStation.HighLevel.GameEngine2D" />
+    <Reference Include="Sce.PlayStation.HighLevel.Model" />
+    <Reference Include="Sce.PlayStation.HighLevel.Physics2D" />
+    <Reference Include="Sce.PlayStation.HighLevel.UI" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\AppMain.cs" />
+    <Compile Include="Classes\Background.cs" />
+    <Compile Include="Classes\Bullet.cs" />
+    <Compile Include="Classes\AudioManager.cs" />
+    <Compile Include="Classes\Hud.cs" />
+    <Compile Include="Classes\GameObject.cs" />
+    <Compile Include="Classes\Player.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ShaderProgram Include="shaders\Simple.fcg" />
+    <ShaderProgram Include="shaders\Simple.vcg" />
+  </ItemGroup>
+  <ItemGroup>
+    <PsmMetadata Include="app.xml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Sce\Sce.Psm.CSharp.targets" />
+  <ItemGroup>
+    <Folder Include="Classes\" />
+    <Folder Include="sounds\" />
+    <Folder Include="textures\" />
+    <Folder Include="textures\hud\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sounds\bgm\Airport Lounge.mp3" />
+    <Content Include="sounds\bgm\Cephalopod.mp3" />
+    <Content Include="sounds\bgm\Controlled Chaos NP.mp3" />
+    <Content Include="sounds\bgm\Controlled Chaos.mp3" />
+    <Content Include="sounds\bgm\Dark Fog.mp3" />
+    <Content Include="sounds\bgm\In a Heartbeat.mp3" />
+    <Content Include="sounds\bgm\Ouroboros.mp3" />
+    <Content Include="sounds\bgm\Rocket.mp3" />
+    <Content Include="sounds\bgm\Space Fighter Loop.mp3" />
+    <Content Include="sounds\bgm\The Complex.mp3" />
+    <Content Include="sounds\bgm\Volatile Reaction.mp3" />
+    <Content Include="textures\background\levelBackground.jpg" />
+    <Content Include="textures\background\menuBackground.jpg" />
+    <Content Include="textures\game objects\bullet.png" />
+    <Content Include="textures\game objects\ring.png" />
+    <Content Include="textures\player\playerSheet.jpg" />
+    <Content Include="textures\player\sprites\playerSheet.jpg" />
+    <Content Include="textures\hud\armourBar.png" />
+    <Content Include="textures\hud\armourDamageBar.png" />
+    <Content Include="textures\hud\healthAndArmourFrame.png" />
+    <Content Include="textures\hud\healthBar.png" />
+    <Content Include="textures\hud\healthDamageBar.png" />
+    <Content Include="textures\background\gameOverBackground.jpg" />
+    <Content Include="textures\game objects\ringtest.png" />
+    <Content Include="textures\background\pauseBackground.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="textures\background\Thumbs.db" />
+  </ItemGroup>
+</Project>

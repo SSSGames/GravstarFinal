@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Gravstar\Classes\AppMain.cs">
+    <Files>
+      <File FileName="Gravstar\Classes\Player.cs" Line="423" Column="23" />
+      <File FileName="Gravstar\Classes\AppMain.cs" Line="217" Column="43" />
+      <File FileName="Gravstar\Plat.cs" Line="9" Column="2" />
+      <File FileName="Gravstar\Classes\Managers\GameObjectManager.cs" Line="104" Column="5" />
+      <File FileName="Gravstar\Exit.cs" Line="50" Column="49" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
